@@ -502,6 +502,7 @@ with GNSS (global navigation satellite system).
 
 ## Deep Learning
 
+* [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) - QGIS plugin for point-and-click segmentation of buildings, trees and any object in satellite and drone imagery into vector polygons, with a free CPU-only local mode.
 * [AIDE](https://github.com/microsoft/aerial_wildlife_detection) - Annotation Interface for Data-driven Ecology: Tools for detecting wildlife in aerial images using active learning
 * [AirNet](https://github.com/mathildor/TF-SegNet) - SegNet-like network implemented in TensorFlow to use for segmenting aerial images.
 * [aviary](https://github.com/geospaitial-lab/aviary) - Pythonic Framework for AI Inference on Geospatial Data.
