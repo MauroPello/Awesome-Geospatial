@@ -1730,7 +1730,6 @@ for geospatial and tabular data.
 * [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
 * [OpenWaterAtlas](https://openwateratlas.com/en/datasets/) - Open (CC BY 4.0) dataset joining 2,928 dive/kite/surf/freedive sites to 112,548 OBIS + GBIF marine species occurrences within 5 km, per-spot 5-year daily climate aggregates (Open-Meteo + ERA5), and 34,876 OpenFlights direct routes. Versioned Zenodo DOI, mirrored on Kaggle and Hugging Face.
 * [Overture Maps open data](https://overturemaps.org/download/) - Free and open (CDLA Permissive 2.0) global GeoParquet datasets, updated monthly on AWS S3 and Azure.
-* [PlaneCrashData](https://www.planecrashdata.com/) - Open dataset and interactive 3D globe visualizing over 100 years of global aviation safety incidents, airline safety records, and aircraft model crash statistics.
 * [RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery.
 * [Scale Open Datasets](https://scale.com/open-datasets?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter) - Open Datasets for Autonomous Driving.
 * [Sentinel 2 AWS](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/) - Sentinel 2 data on Amazon S3.
@@ -1756,6 +1755,8 @@ for geospatial and tabular data.
 * [LOLManuscriptMonday](https://github.com/ladiesoflandsat/LOLManuscriptMonday) - Hold the links to the Ladies of Landsat Manuscript Monday series.
 * [Spatialreference.org](http://spatialreference.org/) - Source for coordinate system information.
 * [TileJSON.io](http://tilejson.io/) - tilejson.io is a simple viewer for raster tile sets (Enter tile URL, layer properties, share).
+* [PlaneCrashData](https://www.planecrashdata.com/) - Open dataset and interactive 3D globe visualizing over 100 years of global aviation safety incidents, airline safety records, and aircraft model crash statistics.
+
 ### Icons
 
 * [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
